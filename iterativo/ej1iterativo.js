@@ -1,3 +1,3 @@
 const leer = require("prompt-sync")();
 
-sss
+//imprima 3 veces un mismo mensaje
